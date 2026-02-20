@@ -13,19 +13,27 @@ I am currently pursuing a degree in Systems Analysis and Development at UNA, dee
 
 # 🚀 Featured Projects
 
-### 🏦 BankStack
-CLI banking system built with Python.
-- User authentication
+### 🏦 BankStack  
+A terminal-based banking system developed in Python to simulate real-world financial operations.  
+This project focuses on clean code structure, authentication logic, and transaction management.
+
+**Key Highlights:**
+- User authentication system
 - Deposits, withdrawals and transfers
-- Persistent storage with JSON
-- Clean modular structure  
+- Data persistence using JSON
+- Organized and modular code structure
+
 🔗 https://github.com/mathfews/bankstack
 
 ---
 
-### 🔐 Auth System CLI
-Authentication system focused on security fundamentals.
-- Password hashing with SHA-256
-- File-based database
-- OOP structure  
+### 🔐 Auth System CLI  
+A command-line authentication system built to strengthen my understanding of security fundamentals and backend logic.
+
+**Key Highlights:**
+- Password hashing using SHA-256
+- Structured file-based user database
+- Object-Oriented Programming principles
+- Input validation and error handling
+
 🔗 https://github.com/mathfews/auth-system-cli
