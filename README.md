@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I am currently pursuing a degree in Information Systems at PUC Minas, building a solid foundation in software engineering and backend development. I primarily work with Python and Node.js, focusing on writing clean, maintainable code and understanding the fundamentals behind authentication, data persistence, and system design. I enjoy building practical projects to deepen my technical knowledge and continuously evolve as a developer.
+I am currently pursuing a degree in Information Systems at PUC Minas, building a solid foundation in software engineering and backend development. I primarily work with Python and JavaScript, focusing on writing clean, maintainable code and understanding the fundamentals behind authentication, data persistence, and system design. I enjoy building practical projects to deepen my technical knowledge and continuously evolve as a developer.
 
 ---
 
