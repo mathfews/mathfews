@@ -1,47 +1,10 @@
-# 💫 About Me
+### Hello there 👋
 
-I am currently pursuing a degree in Information Systems at PUC Minas, building a solid foundation in software engineering and backend development. I primarily work with Python and JavaScript, focusing on writing clean, maintainable code and understanding the fundamentals behind authentication, data persistence, and system design. I enjoy building practical projects to deepen my technical knowledge and continuously evolve as a developer.
+#### A Full-Stack Developer by day, and an Information Systems student at PUC Minas by night :)
 
----
+Full-Stack Developer<br>
+Information Systems student at PUC Minas<br>
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusfcw) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheusfcw1010@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-### 🏦 BankStack  
-A terminal-based banking system developed in Python to simulate core financial operations and backend logic.
-
-**Key Highlights:**
-- Secure user authentication
-- Deposits, withdrawals, and transfers
-- Persistent data storage using JSON
-- Modular and organized architecture
-
-🔗 https://github.com/mathfews/bankstack
-
----
-
-### 🔐 Auth System CLI  
-A command-line authentication system built to reinforce backend fundamentals and security concepts.
-
-**Key Highlights:**
-- Password hashing with SHA-256
-- File-based user database
-- Object-Oriented Programming (OOP)
-- Robust input validation and error handling
-
-🔗 https://github.com/mathfews/auth-system-cli
+- ⚙️ Daily stack: `Python`, `JavaScript`, `HTML`, `CSS`, `FastAPI`, `npm`
+- 🎨 I'm also passionate about `Web Design`, `UI`, `UX`, `Branding`
+- 🏅 Favorite repositories: [Fazer (WIP)](https://github.com/mathfews/fazer), [Inventory Manager](https://github.com/mathfews/inventory-manager-cli), [Ambient Sounds](https://github.com/mathfews/simple_ambient_sounds)
